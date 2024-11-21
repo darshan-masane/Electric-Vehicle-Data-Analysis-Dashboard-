@@ -1,6 +1,12 @@
 # Electric-Vehicle-Data-Analysis-Dashboard-
 ## Electric Vehicle Data Analysis Dashboard This Power BI dashboard provides an interactive analysis of the electric vehicle (EV) market in the United States. The dashboard highlights key metrics, trends, and geographical distributions to offer valuable insights into the adoption and growth of electric vehicles.
 
+## Dataset Used:-
+## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
+
+## Dashboard:-
+## - <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
+
 ## Key Metrics
 - Total Vehicles: 150.48K
 - Average Electric Range: 67.88 miles
