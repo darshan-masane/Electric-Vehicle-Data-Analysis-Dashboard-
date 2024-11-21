@@ -5,7 +5,7 @@
 ## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
 
 ## Dashboard:-
-## - <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
+## - <a href='https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-21%20113003.png'>Dashboard</a>
 
 ## Key Metrics
 - Total Vehicles: 150.48K
