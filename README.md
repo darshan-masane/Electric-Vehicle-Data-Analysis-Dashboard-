@@ -8,7 +8,7 @@
 ## - <a href='https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-21%20113003.png'>Dashboard</a>
 ## Dashboard Overview :-
 ![Screenshot 2024-11-01 120048.](https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-21%20113003.png)
-## Key Metrics
+## Key Metrics:-
 - Total Vehicles: 150.48K
 - Average Electric Range: 67.88 miles
 - Battery Electric Vehicles (BEVs): 116.81K
