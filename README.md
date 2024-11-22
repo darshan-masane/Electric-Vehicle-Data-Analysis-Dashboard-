@@ -16,7 +16,7 @@
 - Dashboard Highlights
 - EV Registration Trends
 
-#### A line chart visualizing the growth of EV registrations by model year, showcasing a sharp rise post-2015.
+##### A line chart visualizing the growth of EV registrations by model year, showcasing a sharp rise post-2015.
 #### Manufacturer Analysis
 
 #### A bar chart ranking manufacturers (Tesla, Nissan, Chevrolet, etc.) by their contributions to EV registrations.
