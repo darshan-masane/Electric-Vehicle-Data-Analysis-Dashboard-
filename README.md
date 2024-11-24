@@ -30,6 +30,6 @@
 ## The dashboard includes slicers to dynamically filter data by:
 
 ## Model
-- Electric Vehicle Type (BEV or PHEV)
+- Electric Vehicle Type (BEV or PHEV).
 ## State
-- Manufacturer (Make)
+- Manufacturer (Make).
