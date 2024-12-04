@@ -5,7 +5,7 @@
 ## - <a href="https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/Electric_Vehicle_Population_Data.zip">Dataset</a>
 
 # Dashboard:-
-## - <a href='https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-21%20113003.png'>Dashboard</a>
+## - <a href='https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/electric_vehicle.pbix'>Dashboard</a>
 ## Dashboard Overview :-
 ![Screenshot 2024-11-01 120048.](https://github.com/darshan-masane/Electric-Vehicle-Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-21%20113003.png)
 ## Key Metrics:-
